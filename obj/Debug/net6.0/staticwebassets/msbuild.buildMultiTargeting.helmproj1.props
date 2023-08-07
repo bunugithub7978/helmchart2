@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\helmproj1.props" />
+</Project>
